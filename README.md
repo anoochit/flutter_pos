@@ -1,16 +1,13 @@
-# winapp
+# POS UI Windows App
 
-A new Flutter project.
+## Screenshots
 
-## Getting Started
+![](/screenshots/Screenshot%202022-11-18%20081237.png)
 
-This project is a starting point for a Flutter application.
+![](/screenshots/Screenshot%202022-11-18%20081322.png)
 
-A few resources to get you started if this is your first Flutter project:
+![](/screenshots/Screenshot%202022-11-18%20081334.png)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+![](/screenshots/Screenshot%202022-11-18%20081350.png)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![](/screenshots/Screenshot%202022-11-18%20081420.png)
